@@ -1,0 +1,1 @@
+[31-Jul-2024 21:49:20 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Nikola\Local Sites\coffee-factory\app\public\wp-includes\class-wp-customize-widgets.php on line 905
