@@ -19,3 +19,5 @@ function handle_lead_form() {
 
 add_action('wp_ajax_nopriv_handle_lead_form', 'handle_lead_form');
 add_action('wp_ajax_handle_lead_form', 'handle_lead_form');
+
+add_theme_support('align-wide');
