@@ -8,8 +8,8 @@ A WordPress challenge where custom theme is used and a form is submitted through
 - Import the given sql dump export file
 - You should be able to login with these credentials:
 
-       username:
-       password:
+       username:simona
+       password:simona1234@
 
 - Check the page and submit the form.
 - Confirm that the form is submitted successfuly by checking the console that should give 200 status code.
